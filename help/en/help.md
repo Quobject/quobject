@@ -3,4 +3,4 @@
 coming soon.
 
 [Support](http://support.quobject.io/)
-© Copyright 2019 Quobject. All rights reserved.
+© Copyright 2020 Quobject. All rights reserved.
