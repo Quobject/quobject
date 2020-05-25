@@ -21,7 +21,7 @@ See [Issues #1](https://github.com/Quobject/quobject/issues/1)
 
 #### Exporting quizzes into *.docx documents missing text
 
-Export quiz to word docx in Quobject Explorer macos - missing text when opening in Pages, Google docs, libreoffice. 
+Export quiz to word docx in Quobject Explorer macos & windows - missing text when opening in Pages, Google docs, libreoffice. 
 
 All created *.docx documents can currently only be opened in MS Word. 
 
