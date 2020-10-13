@@ -16,7 +16,9 @@ https://apps.quobject.io/ImportExample_en.csv
 https://apps.quobject.io/ImportExample_en.csv
 )
 
-# img tag:
+##### img tag:
+1. Create jpeg file in same folder as xxx.csv file
+2. Include img tag in csv Question or Answer field:
 ```
 <<img src=006.jpeg>>
 ```
