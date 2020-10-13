@@ -8,6 +8,21 @@
 
 See [Issues #1](https://github.com/Quobject/quobject/issues/1)
 
+#### Import csv file
+
+[
+https://apps.quobject.io/ImportExample_en.csv
+](
+https://apps.quobject.io/ImportExample_en.csv
+)
+
+# img tag:
+```
+<<img src=006.jpeg>>
+```
+
+
+
 ### Quobject Explorer
 
 #### Getting message: "Quobject Explorer can’t be opened because Apple cannot check it for malicious software."
